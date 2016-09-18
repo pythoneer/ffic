@@ -1,7 +1,7 @@
 #include <stdio.h>
  
  
-void foo(void)
+void call(void)
 {
     puts("Hello, I'm a static library");
 }
